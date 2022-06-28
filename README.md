@@ -1,0 +1,1 @@
+This is is a site to demonstrate the use of basic HTML skills and use of version control Git. Github is also utilized in building this site. 
